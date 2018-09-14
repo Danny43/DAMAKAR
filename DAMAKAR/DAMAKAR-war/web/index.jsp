@@ -12,6 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>League of Legends</h1>
+        <div>
+            <label> Cuantas copas tenés!</label>
+        </div>
     </body>
 </html>
